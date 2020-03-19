@@ -1,2 +1,2 @@
-# canvas-quiz-log-exporter
-Export logs of quizzed in Canvas
+# Canvas Quiz Log Exporter
+Export logs of quizzes in Canvas
